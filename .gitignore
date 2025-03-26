@@ -1,0 +1,12 @@
+# Docker
+*.log
+__pycache__/
+postgresql/
+config/*.log
+addons/
+odoo-data/
+odoo-db-data/
+
+# Docker Compose volumes
+volumes/
+
